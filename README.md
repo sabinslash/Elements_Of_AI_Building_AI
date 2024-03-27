@@ -11,11 +11,13 @@
 
 
 **Chapter 2 - Deailing With Uncertainty**
+
 4.	Probaility fundamentals
 5.	The Bayes Rule
 6.	Native Bayers classifier
 
 **Chapter 3 - Machine Learning**
+
 7.	Linear regression
 8.	The neasest neighbor method
 9.	Working with text
@@ -23,12 +25,14 @@
 
 
 **Chapter 4 - Neural Networks**
+
 11.	Logicistic regression
 12.	From logistic regression to neural networks
 13.	Deep learning
 
 
 **Chapter 5 - Conclusion**
+
 •	Summary
 •	Your AI idea
 •	AI idea gallery
