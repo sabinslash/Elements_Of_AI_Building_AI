@@ -34,6 +34,8 @@
 **Chapter 5 - Conclusion**
 
 •	Summary
+
 •	Your AI idea
+
 •	AI idea gallery
 
